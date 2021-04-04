@@ -1,1 +1,2 @@
 # Fred
+Print('Hello fred') 
